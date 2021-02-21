@@ -12,6 +12,8 @@ Michael Garrett
 Hunter Williams
 
 ### Previous Backers
+
+Geordie Martinez
 Chris Hönninger  
 Seona Hwang  
 Edward Twiss  
