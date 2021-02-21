@@ -8,7 +8,7 @@ OpenFirehawk is an open source project (MPL2.0).  It's developement is made poss
 
 Harvey Fong  
 Anthony Morrelle  
-Michael Garrett
+Michael Garrett  
 Hunter Williams
 
 ### Previous Backers
