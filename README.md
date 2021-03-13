@@ -1,3 +1,5 @@
+The Firehawk repository should be used now instead of this Firehawk-prototype repository.  This is for historically tracking a first phase working prototype, kept for posterity.
+
 # Open Firehawk
 
 Open Firehawk is an environment to create an on demand render farm for VFX with infrastructure as code.  It uses Terraform to orchestrate resources, Ansible to configure resources, and Vagrant (with Virtualbox) as a VM container for these tools to run within.  A Linux or Mac OS host for the VM's is recommended at this time.  Terraform is able to interface with many cloud providers, current base implementation is with AWS.  It does use resources that have costs for their use, the types of resources chosen are based off the ones that were most cost effective for my use case. PR's for other resource options are welcome!
